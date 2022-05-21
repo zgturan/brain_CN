@@ -9,4 +9,4 @@ Principal component analysis-based denoising approach are implemented in:
 /trial/scripts/03_RemoveNegatives.R
 ```
 
-Note that several scripts in this repository belong to [Ginkgo](https://github.com/robertaboukhalil/ginkgo)
+Please consider citing [Ginkgo](https://github.com/robertaboukhalil/ginkgo), if you use CNV prediction scripts in this repository.
